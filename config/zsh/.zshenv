@@ -10,6 +10,9 @@ export XDG_CACHE_HOME="$HOME/.cache"
 ### zsh ###
 export ZDOTDIR="$XDG_CONFIG_HOME/zsh"
 
+### brew ###
+export BREW_HOME="/opt/homebrew"
+
 ### Rust ###
 export RUST_BACKTRACE=1
 export RUSTUP_HOME="$XDG_DATA_HOME/rustup"

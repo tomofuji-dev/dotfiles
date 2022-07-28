@@ -10,6 +10,7 @@ typeset -U fpath
 
 path=(
     "$HOME/.local/bin"(N-/)
+    "$BREW_HOME/bin"(N-/)
     "$CARGO_HOME/bin"(N-/)
     "$GOPATH/bin"(N-/)
     "$DENO_INSTALL/bin"(N-/)
