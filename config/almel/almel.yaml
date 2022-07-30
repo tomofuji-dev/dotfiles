@@ -1,17 +1,17 @@
 os:
   linux:
     style:
-      background: Cyan
+      background: Blue
       foreground: White
     icon: "\uf17c" # nf-fa-linux
   mac:
     style:
-      background: Cyan
+      background: Blue
       foreground: White
     icon: "\uf179" # nf-fa-apple
   windows:
     style:
-      background: Cyan
+      background: Blue
       foreground: "White"
     icon: "\uf17a" # nf-fa-windows
 
@@ -46,7 +46,7 @@ directory:
   normal:
     style:
       background:
-        RGB: [120, 150, 170]
+        RGB: [200, 220, 250]
       foreground: Black
   error:
     style:
@@ -100,7 +100,7 @@ git_repo:
 
 git_user:
   style:
-    background: Cyan
+    background: Blue
     foreground: Black
   icon: "\uf2c0" # nf-fa-user_o
 

@@ -268,11 +268,11 @@
     "Green Component" : 0.76862746477127075
   },
   "Ansi 2 Color" : {
-    "Red Component" : 0.60000002384185791,
+    "Red Component" : 0.54611519472125691,
     "Color Space" : "sRGB",
-    "Blue Component" : 0.58039218187332153,
+    "Blue Component" : 0.52203318569809198,
     "Alpha Component" : 1,
-    "Green Component" : 0.78039216995239258
+    "Green Component" : 0.767669677734375
   },
   "Send Code When Idle" : false,
   "ASCII Anti Aliased" : false,
