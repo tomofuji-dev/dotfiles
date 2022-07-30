@@ -1,18 +1,18 @@
 os:
   linux:
     style:
-      background: { Fixed: 33 }
+      background: Cyan
       foreground: White
     icon: "\uf17c" # nf-fa-linux
   mac:
     style:
-      background: { Fixed: 33 }
+      background: Cyan
       foreground: White
     icon: "\uf179" # nf-fa-apple
   windows:
     style:
-      background: { Fixed: 33 }
-      foreground: White
+      background: Cyan
+      foreground: "White"
     icon: "\uf17a" # nf-fa-windows
 
 shell:
@@ -36,7 +36,8 @@ shell:
 
 user:
   style:
-    background: { Fixed: 8 }
+    background:
+      RGB: [50, 60, 70]
     foreground: White
   display_host: true
 
@@ -44,7 +45,8 @@ directory:
   home: "~"
   normal:
     style:
-      background: Blue
+      background:
+        RGB: [120, 150, 180]
       foreground: Black
   error:
     style:
@@ -98,7 +100,7 @@ git_repo:
 
 git_user:
   style:
-    background: { Fixed: 117 }
+    background: Cyan
     foreground: Black
   icon: "\uf2c0" # nf-fa-user_o
 
@@ -150,5 +152,4 @@ segments:
     - git_repo
     - git_user
     - venv
-  - - duration
-    - status
+  - - status
