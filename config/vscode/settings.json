@@ -1,0 +1,32 @@
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "git.autofetch": true,
+    "code-runner.runInTerminal": true,
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+    "editor.insertSpaces": false,
+    "files.autoSave": "afterDelay",
+    "terminal.external.osxExec": "iTerm.app",
+    "terminal.integrated.fontFamily": "JetBrainsMonoNerdFontCompleteM-Regular",
+    "workbench.colorCustomizations": {
+        "terminal.foreground": "#d8dee9",
+        "terminal.background": "#23292f",
+        "terminal.ansiBlack": "#000000",
+        "terminal.ansiBlue": "#6699cc",
+        "terminal.ansiCyan": "#5fb4b4",
+        "terminal.ansiGreen": "#99c794",
+        "terminal.ansiMagenta": "#c695c6",
+        "terminal.ansiRed": "#ec5f66",
+        "terminal.ansiWhite": "#f7f7f7",
+        "terminal.ansiYellow": "#f9cc63",
+        "terminal.ansiBrightBlack": "#333333",
+        "terminal.ansiBrightBlue": "#85add6",
+        "terminal.ansiBrightCyan": "#82c4c4",
+        "terminal.ansiBrightGreen": "#acd1a8",
+        "terminal.ansiBrightMagenta": "#d8b6d8",
+        "terminal.ansiBrightRed": "#f97b58",
+        "terminal.ansiBrightWhite": "#ffffff",
+        "terminal.ansiBrightYellow": "#fac761",
+        "terminal.selectionBackground": "#4e5a65",
+        "terminalCursor.foreground": "#fcbb6a"
+    }
+}

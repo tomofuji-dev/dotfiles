@@ -36,8 +36,8 @@ shell:
 
 user:
   style:
-    background:
-      RGB: [50, 60, 70]
+    background: 
+      RGB: [80, 80, 80]
     foreground: White
   display_host: true
 
@@ -46,7 +46,7 @@ directory:
   normal:
     style:
       background:
-        RGB: [120, 150, 180]
+        RGB: [120, 150, 170]
       foreground: Black
   error:
     style:
