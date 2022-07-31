@@ -354,3 +354,6 @@ autoload -Uz cdr
 autoload -Uz chpwd_recent_dirs
 autoload -Uz _zinit
 zpcompinit
+
+### atcoder ###
+alias actest='oj t -c "python3 ./main.py" -d ./tests/'

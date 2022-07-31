@@ -16,6 +16,7 @@ path=(
     "$DENO_INSTALL/bin"(N-/)
     "$GEM_HOME/bin"(N-/)
     "$XDG_CONFIG_HOME/scripts/bin"(N-/)
+    "$HOME/Library/Python/3.8/bin/"(N-/)
     "$path[@]"
 )
 
